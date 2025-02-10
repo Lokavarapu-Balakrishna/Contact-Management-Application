@@ -1,6 +1,6 @@
 # Contact Management Application
 
-This Contact Management application is built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to manage their contacts by adding, viewing, editing, and deleting contact information. The application also includes search and sorting functionality to enhance the user experience.
+Develop a Contact Management Application Backend using Node.js and Express.js. The primary objectives are to gauge your skills in creating RESTful API endpoints, implementing basic CRUD operations, ensuring data validation, error handling, and adopting clean code practices. You are also tasked with demonstrating your understanding of version control through Git and creating unit tests for the application.
 
 
 ## Features
